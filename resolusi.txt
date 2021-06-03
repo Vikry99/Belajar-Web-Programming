@@ -3,8 +3,8 @@ Resolusi pembelajaran
 * Belajar Command Line
 * Belajar Git 
 * Belajar Github
-* HTML dan CSS
-* Java Script
+* HTML dan CSS - (Belajar Framework)
+* Java Script - (Belajar Framwork)
 * Node Js
 * React Js
 * PHP
