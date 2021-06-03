@@ -8,3 +8,4 @@ Resolusi pembelajaran
 * Node Js
 * React Js
 * PHP
+* Membuat Portofolio untuk web front end
