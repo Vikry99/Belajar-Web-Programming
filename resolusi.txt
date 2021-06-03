@@ -1,7 +1,10 @@
 # Belajar-Web-Programming
 Resolusi pembelajaran
+* Belajar Command Line
 * Belajar Git 
 * Belajar Github
 * HTML dan CSS
 * Java Script
-* 
+* Node Js
+* React Js
+* PHP
